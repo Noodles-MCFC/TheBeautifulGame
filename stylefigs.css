@@ -1,0 +1,40 @@
+body{
+background-color: gainsboro;
+}
+
+
+p{
+font-size: 20px;
+}
+<img src="Platini.jpg" alt="Platini">
+
+
+
+header{
+font-size: 20px;
+color: black;
+text-align:left;
+margin: 0px; 
+padding: 0px;
+background-color: goldenrod;
+}
+
+header#down{
+font-size:20px;
+color: goldenrod;
+margin: 0px; 
+padding: 0px;
+background-color: black;
+}
+
+h1{
+color: black;
+}
+
+h2{
+color: goldenrod;
+}
+
+div#gap{
+background-color:black;
+}

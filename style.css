@@ -1,0 +1,66 @@
+a#figures{
+color: goldenrod;
+font-size:20px;
+}
+
+a#timeline{
+color: goldenrod;
+font-size:20px;
+}
+
+a#records{
+color:goldenrod;
+font-size:20px;
+}
+
+
+
+
+
+body{
+background-color: gainsboro;
+}
+
+header#below{
+background-color:black;
+}
+
+
+h2{
+font-size:20px;
+color: goldenrod;
+margin: 0px 0px 0px 0px; 
+padding: 0px 0px 0px 0px;
+}
+
+h1{
+font-size: 40px;
+color: black;
+text-align:left;
+margin: 0px 0px 0px 0px; 
+padding: 0px;
+}
+
+
+header{
+background-color: goldenrod
+}
+
+p#one{
+font-size: 20px;
+}
+
+p#two{
+font-size:20px;
+}
+
+p#three{
+font-size: 20px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+body{
+background-color: gainsboro;
+}
+
+
+h1{
+font-size: 30px;
+color: black;
+text-align:left;
+margin: 0px; 
+padding: 0px;
+background-color: goldenrod;
+}
+
+
+h2 a{
+font-size:25px;
+color: goldenrod;
+margin: 0px; 
+padding: 0px;
+background-color: black;
+}
+
+
+h2{
+margin-top:0;
+margin-bottom:0;
+}
+
+
+div.link{
+background-color: black;
+}
+
+div.section{
+background-color: grey;
+}
+
+header{
+background-color:goldenrod;
+}
+
+p{
+font-size: 17px;
+}
+
+div.subhead p{
+font-size:45px;
+}

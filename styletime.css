@@ -1,0 +1,40 @@
+body{
+background-color: lightgrey;
+}
+
+p{
+font-size: 20px;
+}
+
+header{
+background-color: goldenrod;
+}
+
+
+header#five{
+background-color:black;
+}
+
+
+h2{
+font-size:20px;
+color: goldenrod;
+margin: 0px 0px; 
+padding: 0px 0px 0px 0px;
+}
+
+h1{
+font-size: 40px;
+color: black;
+text-align:left;
+margin: 0px 0px 0px 0px; 
+padding: 0px;
+}
+
+p#origins{
+font-size:25px;
+}
+
+div{
+font-size: 20px;
+}

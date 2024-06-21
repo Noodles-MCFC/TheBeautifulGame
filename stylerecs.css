@@ -1,0 +1,38 @@
+body{
+background-color:gainsboro;
+}
+
+header#three{
+font-size: 25px;
+text-align: center;
+}
+
+h2 a{
+font-size:20px;
+color: goldenrod;
+margin: 0px 0px; 
+padding: 0px 0px 0px 0px;
+}
+
+h2{
+margin-top:0;
+margin-bottom:0;
+}
+
+
+
+h1{
+font-size: 20px;
+color: black;
+text-align:left;
+margin: 0px 0px 0px 0px; 
+padding: 0px;
+}
+
+header{
+background-color: goldenrod;
+}
+
+div{
+background-color: black;
+}
